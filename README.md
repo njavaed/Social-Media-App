@@ -8,4 +8,4 @@ A social media app using create react app.
 * React
 * VS Code
 * tailwind.css
-* 
+* postwind.css
